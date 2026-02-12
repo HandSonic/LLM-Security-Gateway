@@ -395,7 +395,7 @@ UPSTREAM_MODEL=gpt-3.5-turbo
 - **[Axios](https://axios-http.com/)** — HTTP 客户端
 
 ### 安全模型
-- **[YuFeng-XGuard-Reason-0.6B](https://modelscope.cn/models/Alibaba-AAIG/YuFeng-XGuard-Reason-0.6B)** — 基于 Qwen2 的内容安全审核模型（0.6B 参数，轻量高效）
+- **[YuFeng-XGuard-Reason-0.6B](https://modelscope.cn/models/Alibaba-AAIG/YuFeng-XGuard-Reason-0.6B)** — 基于 Qwen 的内容安全审核模型
 
 ## 🔧 高级用法
 
